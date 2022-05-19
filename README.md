@@ -1,2 +1,0 @@
-# PGO
-Predictive grid optimization
